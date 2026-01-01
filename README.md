@@ -36,9 +36,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3 align="left">GitHub Stats</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshhhverma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshhhverma&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshhhverma&theme=dark&hide_border=false&layout=compact&cache_seconds=1800" alt="Top Languages">
-</p>
