@@ -41,5 +41,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-kappa-sandy.vercel.app/api?username=priyanshvermaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshvermaa&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+────────── ✦ ──────────
+</p>
 
